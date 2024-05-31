@@ -1,0 +1,13 @@
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\bin\Debug\PR6.2-submarine.exe.config
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\bin\Debug\PR6.2-submarine.exe
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\bin\Debug\PR6.2-submarine.pdb
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.AssemblyReference.cache
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6._2_submarine.Properties.Resources.resources
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.GenerateResource.cache
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.CoreCompileInputs.cache
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6.2-submarine.exe
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6.2-submarine.pdb
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6._2_submarine.Radar.resources
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6._2_submarine.SubmarineHub.resources
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6._2_submarine.ControlRoom.resources
+D:\Users\1213-1\Documents\2-ИСП\Разработка ИС\Дидовец\PR6.2-submarine\obj\Debug\PR6._2_submarine.Room.resources
