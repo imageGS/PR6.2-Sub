@@ -16,15 +16,33 @@ namespace PR6._2_submarine
         public void RadarSpotEvent()
         {
             Random random = new Random();
-            int randomEvent = random.Next(0, 7);
+            int randomEvent = random.Next(0, 8);
             switch (randomEvent)
             {
-                case 0: Result = MessageBox.Show("На радаре вы не замечаете ничего необычного. Пусто", "Событие", MessageBoxButtons.OK); break;
-                case 1: Result = MessageBox.Show("Ваше внимание привлекает небольшая точка на юго-западе. Интересно, что там.", "Событие", MessageBoxButtons.OK); break;
-                case 2: Result = MessageBox.Show("Небольшая тряска застигает вашу субмарину. Молниеносно вернув себе равновесие, вы замечаете большой объект плывущий параллельно субмарине и медленно её обгоняющий. Жуть.", "Событие", MessageBoxButtons.OK); break;
-                case 3: Result = MessageBox.Show("На радаре вы не замечаете ничего необычного. Пусто", "Событие", MessageBoxButtons.OK); break;
-                case 4: Result = MessageBox.Show("Ваше внимание привлекает скопление небольших точек, движущихся позади субмарины. Косяк рыб, не более.", "Событие", MessageBoxButtons.OK); break;
-                case 5: Result = MessageBox.Show("Ваше внимание привлекает скопление объектов среднего размера движущихся на 12 часов от субмарины.", "Событие", MessageBoxButtons.OK); break;
+                case 0:
+                    MessageBox.Show("На радаре вы не замечаете ничего примечательного.","Мысли");
+                    break;
+                case 1:
+                    MessageBox.Show("Ваше внимание привлекает небольшая недвижимая точка на юго-востоке.", "Мысли");
+                    break;
+                case 2:
+                    MessageBox.Show("Ваше внимание привлекает небольшая точка, двигающаяся параллельно вашей субмарине.", "Мысли");
+                    break;
+                case 3:
+                    MessageBox.Show("Ваше внимание привлекает статичный объект средних размеров позади.", "Мысли");
+                    break;
+                case 4:
+                    MessageBox.Show("Радар показывает, что позади вашей субмарины проплывает нечто больших размеров. Жуть.", "Мысли");
+                    break;
+                case 5:
+                    MessageBox.Show("На радаре показался косяк рыб. Интересно...", "Мысли");
+                    break;
+                case 6:
+                    MessageBox.Show("Несмотря на глубину, на радаре показались несколько довольно крупных точек, движущихся впереди субмарины.", "Мысли");
+                    break;
+                case 7:
+                    MessageBox.Show("Ваше внимание привлекает несколько крохотных точек на западе. Что же это? Рыбы?", "Мысли");
+                    break;
             }
         }
     }

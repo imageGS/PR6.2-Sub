@@ -87,6 +87,7 @@
             this.Name = "Radar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Радар";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Radar_FormClosing);
             this.Load += new System.EventHandler(this.Radar_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.triggerRadarOnOff)).EndInit();

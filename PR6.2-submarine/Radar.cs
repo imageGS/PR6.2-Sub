@@ -13,10 +13,12 @@ namespace PR6._2_submarine
     public partial class Radar : Form
     {
         Submarine submarine = new Submarine();
-        
+        System.Threading.Timer timer;
+
         public Radar()
         {
             InitializeComponent();
+            timer = new System.Threading.Timer(RadarSpot, null, 0, 10000);
         }
 
         void Radar_Load(object sender, EventArgs e)
@@ -43,6 +45,18 @@ namespace PR6._2_submarine
             Close();
             SubmarineHub submarine = new SubmarineHub();
             submarine.Show();
+        }
+        void RadarSpot(object obj)
+        {
+            if (submarine.ic.IsOn)
+            {
+                submarine.ic.RadarSpotEvent();
+            }
+        }
+        private void Radar_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            timer.Dispose();
+            timer = null;
         }
     }
 }
