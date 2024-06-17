@@ -24,3 +24,16 @@ J:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.
 J:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.CoreCompileInputs.cache
 J:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.exe
 J:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.pdb
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\bin\Debug\PR6.2-submarine.exe.config
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\bin\Debug\PR6.2-submarine.exe
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\bin\Debug\PR6.2-submarine.pdb
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.AssemblyReference.cache
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6._2_submarine.ControlRoom.resources
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6._2_submarine.Radar.resources
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6._2_submarine.Room.resources
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6._2_submarine.SubmarineHub.resources
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6._2_submarine.Properties.Resources.resources
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.GenerateResource.cache
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.csproj.CoreCompileInputs.cache
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.exe
+C:\Users\lavey\Source\Repos\PR6.2-Sub\PR6.2-submarine\obj\Debug\PR6.2-submarine.pdb

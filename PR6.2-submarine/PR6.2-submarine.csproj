@@ -48,13 +48,13 @@
   <ItemGroup>
     <Compile Include="AttackDefenceCenter.cs" />
     <Compile Include="CaptainsRoom.cs" />
-    <Compile Include="ControlCenter.cs" />
     <Compile Include="ControlRoom.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ControlRoom.Designer.cs">
       <DependentUpon>ControlRoom.cs</DependentUpon>
     </Compile>
+    <Compile Include="EventManage.cs" />
     <Compile Include="Radar.cs">
       <SubType>Form</SubType>
     </Compile>

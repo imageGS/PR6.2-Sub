@@ -9,14 +9,8 @@ namespace PR6._2_submarine
 {
     internal class Submarine
     {
-        public ControlCenter cc /*{ get; private set; }*/ = new ControlCenter();
         public AttackDefenceCenter adc { get; private set; } = new AttackDefenceCenter();
         public IntelligenceCenter ic { get; private set; } = new IntelligenceCenter();
-        
-        public void Move()
-        {
-
-        }
 
         public void Fire(SubmarineHub form) 
         {

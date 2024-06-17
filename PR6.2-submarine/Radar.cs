@@ -19,6 +19,8 @@ namespace PR6._2_submarine
         {
             InitializeComponent();
             timer = new System.Threading.Timer(RadarSpot, null, 0, 10000);
+            EventManage eventManage = new EventManage();
+            eventManage.Init();
         }
 
         void Radar_Load(object sender, EventArgs e)
